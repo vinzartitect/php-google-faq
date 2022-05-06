@@ -1,0 +1,21 @@
+main {
+    width: 60%;
+    margin: 0 auto;
+}
+
+main .question {
+    margin: 75px 0;
+}
+
+main h4, main p {
+    margin: 20px 0;
+    color: #3c4043;
+}
+
+main h4 {
+    font-size: 1.5rem;
+}
+
+main p {
+    font-size: 1rem;
+}
